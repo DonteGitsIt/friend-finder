@@ -1,0 +1,24 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Find Friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonteGitsIt/friend-finder.git"
+  },
+  "author": "Donte Ojeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonteGitsIt/friend-finder/issues"
+  },
+  "homepage": "https://github.com/DonteGitsIt/friend-finder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
